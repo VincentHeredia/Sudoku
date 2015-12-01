@@ -1,0 +1,27 @@
+C:\Users\Steve\documents\visual studio 2015\Projects\Project2_Sudoku\Project2_Sudoku\bin\Debug\Project2_Sudoku.exe.config
+C:\Users\Steve\documents\visual studio 2015\Projects\Project2_Sudoku\Project2_Sudoku\bin\Debug\Project2_Sudoku.exe
+C:\Users\Steve\documents\visual studio 2015\Projects\Project2_Sudoku\Project2_Sudoku\bin\Debug\Project2_Sudoku.pdb
+C:\Users\Steve\documents\visual studio 2015\Projects\Project2_Sudoku\Project2_Sudoku\obj\Debug\Project2_Sudoku.exe
+C:\Users\Steve\documents\visual studio 2015\Projects\Project2_Sudoku\Project2_Sudoku\obj\Debug\Project2_Sudoku.pdb
+C:\Users\Steve\documents\visual studio 2015\Projects\Project2_Sudoku\Project2_Sudoku\obj\Debug\Project2_Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\visual studio 2015\Projects\Project2_SudokuV2\Project2_Sudoku\bin\Debug\Project2_Sudoku.exe.config
+C:\Users\Steve\Documents\visual studio 2015\Projects\Project2_SudokuV2\Project2_Sudoku\obj\Debug\Project2_Sudoku.exe
+C:\Users\Steve\Documents\visual studio 2015\Projects\Project2_SudokuV2\Project2_Sudoku\obj\Debug\Project2_Sudoku.pdb
+C:\Users\Steve\Documents\visual studio 2015\Projects\Project2_SudokuV2\Project2_Sudoku\bin\Debug\Project2_Sudoku.exe
+C:\Users\Steve\Documents\visual studio 2015\Projects\Project2_SudokuV2\Project2_Sudoku\bin\Debug\Project2_Sudoku.pdb
+C:\Users\Steve\Documents\visual studio 2015\Projects\Project2_SudokuV2\Project2_Sudoku\obj\Debug\Project2_Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\Visual Studio 2015\Projects\Project2_SudokuFinal\Project2_Sudoku\bin\Debug\Project2_Sudoku.exe.config
+C:\Users\Steve\Documents\Visual Studio 2015\Projects\Project2_SudokuFinal\Project2_Sudoku\bin\Debug\Project2_Sudoku.exe
+C:\Users\Steve\Documents\Visual Studio 2015\Projects\Project2_SudokuFinal\Project2_Sudoku\bin\Debug\Project2_Sudoku.pdb
+C:\Users\Steve\Documents\Visual Studio 2015\Projects\Project2_SudokuFinal\Project2_Sudoku\obj\Debug\Project2_Sudoku.exe
+C:\Users\Steve\Documents\Visual Studio 2015\Projects\Project2_SudokuFinal\Project2_Sudoku\obj\Debug\Project2_Sudoku.pdb
+C:\Users\Steve\Desktop\Project2_SudokuFinal\Project2_Sudoku\bin\Debug\Project2_Sudoku.exe.config
+C:\Users\Steve\Desktop\Project2_SudokuFinal\Project2_Sudoku\bin\Debug\Project2_Sudoku.exe
+C:\Users\Steve\Desktop\Project2_SudokuFinal\Project2_Sudoku\bin\Debug\Project2_Sudoku.pdb
+C:\Users\Steve\Desktop\Project2_SudokuFinal\Project2_Sudoku\obj\Debug\Project2_Sudoku.exe
+C:\Users\Steve\Desktop\Project2_SudokuFinal\Project2_Sudoku\obj\Debug\Project2_Sudoku.pdb
+C:\Users\Steve\Desktop\VincentHeredia_Project2_Sudoku\Code\Project2_SudokuFinal\Project2_Sudoku\bin\Debug\Project2_Sudoku.exe.config
+C:\Users\Steve\Desktop\VincentHeredia_Project2_Sudoku\Code\Project2_SudokuFinal\Project2_Sudoku\bin\Debug\Project2_Sudoku.exe
+C:\Users\Steve\Desktop\VincentHeredia_Project2_Sudoku\Code\Project2_SudokuFinal\Project2_Sudoku\bin\Debug\Project2_Sudoku.pdb
+C:\Users\Steve\Desktop\VincentHeredia_Project2_Sudoku\Code\Project2_SudokuFinal\Project2_Sudoku\obj\Debug\Project2_Sudoku.exe
+C:\Users\Steve\Desktop\VincentHeredia_Project2_Sudoku\Code\Project2_SudokuFinal\Project2_Sudoku\obj\Debug\Project2_Sudoku.pdb
